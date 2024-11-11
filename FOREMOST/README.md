@@ -20,7 +20,9 @@ Este manual explica el procedimiento detallado para recuperar datos de una unida
    lsblk
    ```
 
-   Este comando mostrará todas las unidades conectadas. Identifica la USB, que podría aparecer como `/dev/sdb1`, por ejemplo.
+   Este comando mostrará todas las unidades conectadas. Identifica la USB, que podría aparecer como `/dev/sdb1`, cómo se ve en este ejemplo.
+
+imagen 1
 
 #### 2. Crear una imagen de la USB (opcional pero recomendado)
    Crear una copia de seguridad o imagen de la unidad para trabajar con los datos de forma segura.
