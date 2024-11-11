@@ -3,7 +3,7 @@
 Este manual explica el procedimiento detallado para recuperar datos de una unidad USB utilizando Foresmont, una herramienta de recuperación forense. Se cubren las etapas del análisis, los comandos necesarios y un caso práctico de recuperación de archivos eliminados.
 
 #### Requisitos previos
-1. **Instalar Foresmont**: Asegúrate de tener Foresmont instalado en el sistema. Foresmont es una herramienta disponible para sistemas operativos Linux, por lo que es necesario contar con un entorno Linux o una máquina virtual.
+1. **Instalar Foresmont**: Tener Foresmont instalado en el sistema. Foresmont es una herramienta disponible para sistemas operativos Linux, por lo que es necesario contar con un entorno Linux o una máquina virtual.
 
 2. **Acceso root**: Para realizar el análisis y la recuperación, se requiere acceso root en el sistema.
 
@@ -14,7 +14,7 @@ Este manual explica el procedimiento detallado para recuperar datos de una unida
 ### Procedimiento General de Recuperación
 
 #### 1. Conectar la USB y verificar su montaje
-   Conecta la unidad USB al equipo y verifica su montaje con el siguiente comando:
+   Conecte la unidad USB al equipo y verifique su montaje con el siguiente comando:
 
    ```bash
    lsblk
