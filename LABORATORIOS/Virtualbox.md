@@ -7,7 +7,7 @@ VirtualBox es una herramienta de virtualización que permite instalar y ejecutar
 ## 2. Requisitos Previos
 
 - Procesador compatible con virtualización (Intel VT-x o AMD-V).
-- Al menos 2 GB de RAM (se recomienda más para un rendimiento óptimo).
+- Al menos 8 GB de RAM.
 - Espacio en disco para almacenar máquinas virtuales.
 
 ---
