@@ -1,7 +1,3 @@
-Aquí tienes una guía en tercera persona que detalla comandos básicos de red para Windows y Linux, junto con ejemplos de uso.
-
----
-
 # Guía de Comandos de Red Básicos en Windows y Linux
 
 ## 1. Comandos Básicos de Red en Windows
