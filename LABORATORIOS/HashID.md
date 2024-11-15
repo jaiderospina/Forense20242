@@ -57,15 +57,10 @@ python3 hashid.py -h
 ```
 
 ##### Escaneo desde un archivo
-**HashID** puede analizar múltiples hashes contenidos en un archivo de texto.
-1. Cree un archivo con hashes, por ejemplo `hashes.txt`:
-   ```
-   5d41402abc4b2a76b9719d911017c592
-   e99a18c428cb38d5f260853678922e03
-   ```
-2. Ejecute:
+**HashID** puede guardar su sálida en un archivo de texto.
+1. Ejemplo para guardar el resultardo en un fichero llamaddo tres.txt, ejecute:
    ```bash
-   python3 hashID.py -f hashes.txt
+   jaider@DESKTOP-8QVES9R:~/hashID$ python3 hashid.py -m -o tres.txt 5d41402abc4b2a76b9719d911017c592
    ```
 
 ##### Opciones avanzadas
