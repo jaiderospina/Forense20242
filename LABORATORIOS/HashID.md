@@ -50,10 +50,10 @@ Para usar **HashID**, navegue al directorio donde se encuentra el archivo `hashI
    [+] MD5
    ```
 
-##### Ver todos los algoritmos soportados
-Para listar los algoritmos de hash que **HashID** puede identificar, ejecute:
+##### Optener ayuda
+Para optener ayuda de **HashID**, ejecute:
 ```bash
-python3 hashid.py -l
+python3 hashid.py -h
 ```
 
 ##### Escaneo desde un archivo
