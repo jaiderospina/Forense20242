@@ -93,4 +93,9 @@ Get-FileHash C:\ruta\a\tu\archivo.txt -Algorithm SHA512
 - **Verificación de integridad**: Puedes usar estos hashes para verificar la integridad de los archivos comparando el hash calculado con el proporcionado por la fuente original.
 
 ---
+## 4. Utilidades
 
+Varias herramientas útiles, entre ellas HashCompare. Esta herramienta permite el cáculo y rápida comparación del hash de dos ficheros. 
+
+
+https://securityxploded.com/download-software.php?name=hashcompare
