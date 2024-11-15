@@ -1,7 +1,6 @@
 # Manual de Comandos Básicos en Terminal de Linux
 
-Este manual está diseñado para guiar al usuario en el uso de los comandos básicos desde la terminal en un entorno Linux. La estructura está en tercera persona para facilitar su entendimiento.
-
+Este manual está diseñado para guiar al usuario en el uso de los comandos básicos desde la terminal en un entorno Linux. 
 ---
 
 ## **1. Navegación del Sistema de Archivos**
@@ -170,4 +169,3 @@ Este manual está diseñado para guiar al usuario en el uso de los comandos bás
 
 ---
 
-Este manual cubre los comandos esenciales que un usuario puede necesitar al trabajar en la terminal de Linux. Con ellos, puede navegar, gestionar archivos, monitorear el sistema y realizar tareas administrativas básicas.
